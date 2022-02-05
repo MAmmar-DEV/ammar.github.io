@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.18"
+  },
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vite": "^2.7.13"
+  },
+  "name": "facebookloginpage",
+  "version": "0.0.1",
+  "description": "this is facebook login page I tired",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAmmar-DEV/facebook-login-page.git"
+  },
+  "author": "AmmarTalpur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAmmar-DEV/facebook-login-page/issues"
+  },
+  "homepage": "https://github.com/MAmmar-DEV/facebook-login-page#readme"
+}
